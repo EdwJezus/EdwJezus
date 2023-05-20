@@ -9,7 +9,7 @@
   <a href="https://replit.com/@EduardoJezus" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  <image align="right" alt="pikachu" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-1479.gif"/>
+  <image align="right" image height="180 cm" alt="pikachu" src="https://media.tenor.com/RvTdiWcK6lYAAAAC/aesthetic-cyber.gif"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
