@@ -3,6 +3,11 @@
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=tokyonight)
 
+<div>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=tokyonight&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=tokyonight">
+</div>
+  
 <div> 
   <a href = "mailto:eduuhjesus14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-jesus-932342268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
