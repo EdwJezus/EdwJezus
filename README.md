@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Eduardo Jesus 🖐️
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
