@@ -2,7 +2,7 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=tokyonight)
-rafaballerini
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
