@@ -5,7 +5,7 @@
 
 <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=tokyonight&count_private=true">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=tokyonight">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=tokyonight">
 </div>
   
 <div> 
