@@ -16,3 +16,5 @@
 </div><br/>
 
 - 📒 Cursando primeiro semestre de Ciência da Computação.
+
+![Snake animation](https://github.com/EdwJezus)
