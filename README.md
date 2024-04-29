@@ -17,4 +17,4 @@
   
 </div><br/>
 
-- 📒 Cursando segundo semestre de Ciência da Computação.
+- 📒 Cursando terceiro semestre de Ciência da Computação.
