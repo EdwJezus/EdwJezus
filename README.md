@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Eduardo Jesus 🖐️
 
+- Desenvolvedor Back-end
+- Graduando em Ciência da Computação
+
 <div>
-<h1>Minhas Linguagens</h1>
+<h1>Minhas Ferramentas!</h1>
 <div>
 <img align="center" alt="Python" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
