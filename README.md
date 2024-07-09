@@ -34,6 +34,7 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=react&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=react)
+ <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66cC00&text_color=fFF&bg_color=080909"/>
 
 <div> 
   <a href = "mailto:eduuhjesus14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
