@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Jesus 🖐️
 
-- Desenvolvedor Back-end
-- Graduando em Ciência da Computação
+- 💻 Desenvolvedor Back-end
+- 📘Graduando em Ciência da Computação
 
 <h2>Contato</h2>
 
