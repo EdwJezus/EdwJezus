@@ -33,8 +33,9 @@
 </div style="display: inline_block"><br>
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=react&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=react)
 
- <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=react&count_private=true"/>
+ <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00fcff&icon_color=00fcff&text_color=C8D1D7&bg_color=080809"/>
  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66cC00&text_color=fFF&bg_color=080909"/>
 
 <div> 
