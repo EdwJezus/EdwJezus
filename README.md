@@ -33,6 +33,7 @@
 </div style="display: inline_block"><br>
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=react&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=react)
 
 <div> 
   <a href = "mailto:eduuhjesus14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
