@@ -32,8 +32,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </div style="display: inline_block"><br>
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=chartreuse-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=chartreuse-dark)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=midnight-purple&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&theme=midnight-purple)
 
 <div> 
   <a href = "mailto:eduuhjesus14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
