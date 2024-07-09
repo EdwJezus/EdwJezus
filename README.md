@@ -35,12 +35,6 @@
  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00fcff&icon_color=00fcff&text_color=C8D1D7&bg_color=080809"/>
  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66cC00&text_color=fFF&bg_color=080909"/>
 
-<div> 
-  <a href = "mailto:eduuhjesus14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-jesus-932342268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://replit.com/@EduardoJezus" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
-</div>
-
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   
