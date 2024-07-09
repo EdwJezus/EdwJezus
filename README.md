@@ -14,6 +14,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="C++" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;  
 </div style="display: inline_block"><br>
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=chartreuse-dark&count_private=true)
