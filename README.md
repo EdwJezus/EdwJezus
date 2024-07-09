@@ -3,6 +3,19 @@
 - Desenvolvedor Back-end
 - Graduando em Ciência da Computação
 
+<h2>Contato</h2>
+
+<a href="https://www.linkedin.com/in/eduardojesusperes/"><img width="32px" src="https://i.imgur.com/AcHYLap.png" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.instagram.com/eduardojezus/">
+     <img width="35px" src="https://i.imgur.com/6BYHKps.png" />
+   </a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
+   </a>
+ </div>
+
+</div>
+
 <div>
 <h1>Minhas Ferramentas!</h1>
 <div>
