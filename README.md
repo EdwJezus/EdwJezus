@@ -33,6 +33,8 @@
 </div style="display: inline_block"><br>
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=react&count_private=true)
+
+ <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&theme=react&count_private=true"/>
  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66cC00&text_color=fFF&bg_color=080909"/>
 
 <div> 
