@@ -23,9 +23,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="SQL" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<img align="center" alt="C" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img align="center" alt="C++" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Java" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <i class="devicon-azuresqldatabase-plain colored"></i>
@@ -38,12 +36,12 @@
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD966?style=for-the-badge&logo=python&logoColor=black" />
-  <img align="center" alt="c." src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="c++" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD966?style=for-the-badge&logo=python&logoColor=00599C" />
+  <img align="center" alt="java " src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="sql" src="https://img.shields.io/badge/sql-00599C?style=for-the-badge&logo=sql&logoColor=white" />
   <img align="center" alt="oracle " src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+
   
 </div><br/>
 
-- 📒 Cursando terceiro semestre de Ciência da Computação.
+- 📒 Cursando quinto semestre de Ciência da Computação.
