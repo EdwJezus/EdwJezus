@@ -11,7 +11,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img align="center" alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 </div>
 
