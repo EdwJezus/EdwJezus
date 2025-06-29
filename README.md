@@ -1,47 +1,41 @@
-## Olá! Eu sou o Eduardo Jesus 🖐️
+## 👋 Olá, eu sou o Eduardo Jesus!
 
-- 💻 Desenvolvedor Back-end
-- 📘Graduando em Ciência da Computação
+🎓 Estudante de Ciência da Computação (5º semestre)  
+💻 Desenvolvedor Back-end em formação  
+🔍 Foco em Python, Java, SQL e desenvolvimento de sistemas  
 
-<h2>Contato</h2>
+---
 
-<a href="https://www.linkedin.com/in/eduardojesusperes/"><img width="32px" src="https://i.imgur.com/AcHYLap.png" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.instagram.com/eduardojezus/">
-     <img width="35px" src="https://i.imgur.com/6BYHKps.png" />
-   </a>
-     &#8287;&#8287;&#8287;&#8287;&#8287;
-   </a>
- </div>
+### 🚀 Tecnologias e Ferramentas
 
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 </div>
 
-<div>
-<h1>Minhas Ferramentas!</h1>
-<div>
-<img align="center" alt="Python" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img align="center" alt="SQL" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img align="center" alt="Java" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<i class="devicon-azuresqldatabase-plain colored"></i>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
-</div style="display: inline_block"><br>
+---
 
- <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00fcff&icon_color=00fcff&text_color=C8D1D7&bg_color=080809"/>
- <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66cC00&text_color=fFF&bg_color=080909"/>
+### 📈 GitHub Stats
 
-## Tecnologias que eu uso no meu dia
-<div style="display: inline_block">
-  
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD966?style=for-the-badge&logo=python&logoColor=00599C" />
-  <img align="center" alt="java " src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="sql" src="https://img.shields.io/badge/sql-00599C?style=for-the-badge&logo=sql&logoColor=white" />
-  <img align="center" alt="oracle " src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdwJezus&show_icons=true&count_private=true&hide_border=true&title_color=00fcff&icon_color=00fcff&text_color=C8D1D7&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwJezus&layout=compact&hide_border=true&title_color=ffffff&icon_color=66cc00&text_color=ffffff&bg_color=0d1117"/>
+</div>
 
-  
-</div><br/>
+---
 
-- 📒 Cursando quinto semestre de Ciência da Computação.
+### 📫 Contato
+
+<a href="https://www.linkedin.com/in/eduardojesusperes/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/eduardojezus/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+---
+
+### ✨ Sobre mim
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end com Python, Java e banco de dados.  
+Sou curioso por tecnologia, apaixonado por programação e estou sempre em busca de novos aprendizados.  
+
+---
