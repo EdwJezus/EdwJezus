@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Eduardo Jesus!
 
-🎓 Estudante de Ciência da Computação (5º semestre)  
+🎓 Graduando em Ciência da Computação (6º semestre)  
 💻 Desenvolvedor Back-end em formação  
 🔍 Foco em Python, Java, SQL e desenvolvimento de sistemas  
 
