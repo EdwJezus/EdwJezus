@@ -39,3 +39,5 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end com
 Sou curioso por tecnologia, apaixonado por programação e estou sempre em busca de novos aprendizados.  
 
 ---
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9oYmM3enYwamFyZjNpaWY2dG41Zzh6a3g3dWFsdm1ucXZreXRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
