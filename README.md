@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQEPfvI_SFB8tA/profile-displaybackgroundimage-shrink_350_1400/B4DZWVjg0iG8Ac-/0/1741970870297?e=1770249600&v=beta&t=aUwfNpRri5HJLXScQQLSPvaHmGENymdUk-d41EKWdBU"/>
+
 ## 👋 Olá, eu sou o Eduardo Jesus!
 
 🎓 Graduando em Ciência da Computação (7º semestre)  
