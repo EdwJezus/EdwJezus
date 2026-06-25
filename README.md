@@ -1,35 +1,38 @@
 <img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQEPfvI_SFB8tA/profile-displaybackgroundimage-shrink_350_1400/B4DZWVjg0iG8Ac-/0/1741970870297?e=1782950400&v=beta&t=orWR6qaZUNtqVgNW7kPcXjb-HMJyETy9d-yOGSMSKuo">
 
-## 👋 Olá, eu sou o Eduardo Jesus!
+## 👋 Hi, I'm Eduardo Jesus!
 
-🎓 Graduando em Ciência da Computação (7º semestre)  
-💻 Desenvolvedor Back-end em formação  
-🔍 Foco em Python, Java, SQL e desenvolvimento de sistemas  
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-</div>
+- Computer Science Student (7th Semester) 🎓
+- Back-end Development | Software Engineering 💻  
+- Building web applications, APIs, database solutions and machine learning projects 🚀
 
 ---
 
-### 📫 Contato
+### Technologies & Tools 🚀 
 
-<a href="https://www.linkedin.com/in/eduardojesusperes/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="eduardojesusdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ [![My Skills](https://skillicons.dev/icons?i=python,java,flask,html,css,js,mongodb,sqlite,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-### ✨ Sobre mim
+### Interests & Focus 🧠
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end com Python, Java e banco de dados.  
-Sou curioso por tecnologia, apaixonado por programação e estou sempre em busca de novos aprendizados.  
+* Full-stack Development
+* Back-end Development
+* Software Engineering
+* Web Applications
+* APIs and System Integration
+* Relational and NoSQL Databases
+* Machine Learning Fundamentals
+
+---
+
+### About Me ✨
+
+I am a Computer Science student with over three years of practical experience developing projects using Python, Java, SQL, and web technologies.
+
+My experience includes web applications, APIs, relational and NoSQL databases, machine learning, and compiler construction projects.
+
+My main interests are full-stack development, with a strong focus on back-end development and software engineering. I enjoy creating solutions that combine programming fundamentals with real-world applications while continuously improving my technical skills.
 
 ---
 
