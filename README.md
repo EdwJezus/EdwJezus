@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQEPfvI_SFB8tA/profile-displaybackgroundimage-shrink_350_1400/B4DZWVjg0iG8Ac-/0/1741970870297?e=1784764800&v=beta&t=x3BfrA7lpcpnZV_iz-FLXRIOFVGG91Z_bMbp9j45Ezg">
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQEPfvI_SFB8tA/profile-displaybackgroundimage-shrink_350_1400/B4DZWVjg0iG8Ac-/0/1741970870297?e=1786579200&v=beta&t=gDPPugk2g1ePogvBUfP7Ftq0wlbsbk2OUVY950njKyI">
 
 ## 👋 Hi, I'm Eduardo Jesus!
 
